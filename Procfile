@@ -1,1 +1,1 @@
-web: gunicorn run:NLP
+web: gunicorn NLP:NLP
