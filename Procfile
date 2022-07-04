@@ -1,1 +1,1 @@
-web: gunicorn NLP:NLP
+web: gunicorn app:NLP
